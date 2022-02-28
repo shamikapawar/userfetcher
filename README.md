@@ -1,3 +1,9 @@
+Deployed App: https://userfetcher-shamikapawar.vercel.app/
+Preview: 
+
+![user ss](https://user-images.githubusercontent.com/100352725/155949411-14eedd6a-9fa6-45c2-a15e-711ad2c25c7f.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
